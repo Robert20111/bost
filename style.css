@@ -1,0 +1,120 @@
+main {
+    margin: 0;
+
+    background: linear-gradient(45deg, #ff6e7f, #bfe9ff);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+}
+
+@keyframes gradient {
+0% {
+    background-position: 0 50%;
+}
+50% {
+    background-position: 100% 50%;
+}
+100% {
+    background-position: 0 50%;
+}
+}
+
+footer {
+    margin: 0;
+
+    background: linear-gradient(45deg, #ff6e7f, #bfe9ff);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+}
+
+@keyframes gradient {
+0% {
+    background-position: 0 50%;
+}
+50% {
+    background-position: 100% 50%;
+}
+100% {
+    background-position: 0 50%;
+}
+}
+
+header {
+    margin: 0;
+
+    background: linear-gradient(45deg, #ff6e7f, #bfe9ff);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+}
+
+@keyframes gradient {
+0% {
+    background-position: 0 50%;
+}
+50% {
+    background-position: 100% 50%;
+}
+100% {
+    background-position: 0 50%;
+}
+}
+
+header {
+    background-color: black;
+    border-radius: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 150px;
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+main {
+    background-color: grey;
+}
+
+nav img {
+    width: 500px;
+    height: 500px;
+    border: 10px solid black;
+}
+nav h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 5px solid black;
+    font-size: 60px;
+    border-collapse: collapse;
+}
+
+footer {
+    background-color: grey;
+}
+
+footer h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 5px solid black;
+    font-size: 60px;
+    border-collapse: collapse;
+}
+
+a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+    border-collapse: collapse;
+    border: 5px solid black;
+    text-decoration: none;
+    color: black;
+}
+
+span h1 {
+    color: black;
+    font-weight: 700;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70px;
+}
+
+nav h1 {
+    font-family: sans-serif;
+    font-size: 70px;
+}
